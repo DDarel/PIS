@@ -2,7 +2,7 @@ package ua.pis.lab4.services;
 
 
 import ua.pis.lab4.Implementation.GenreDAOImpl;
-import ua.pis.lab4.Model.Genre;
+import ua.pis.lab4.model.Genre;
 
 import java.sql.SQLException;
 import java.util.List;

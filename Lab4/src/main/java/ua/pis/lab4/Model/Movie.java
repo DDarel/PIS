@@ -1,9 +1,7 @@
-package ua.pis.lab4.Model;
+package ua.pis.lab4.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
-import jakarta.persistence.Table;
-import org.springframework.context.annotation.Bean;
 
 import java.sql.Date;
 @Entity

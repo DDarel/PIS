@@ -1,8 +1,8 @@
 package ua.pis.lab4.Implementation;
 
-import ua.pis.lab4.DAO.GenreDAO;
-import ua.pis.lab4.Model.Genre;
-import ua.pis.lab4.Repository.GenreRepository;
+import ua.pis.lab4.dao.GenreDAO;
+import ua.pis.lab4.model.Genre;
+import ua.pis.lab4.repository.GenreRepository;
 
 import java.sql.SQLException;
 import java.util.List;

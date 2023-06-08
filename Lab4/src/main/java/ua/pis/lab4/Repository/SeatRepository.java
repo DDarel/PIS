@@ -1,7 +1,7 @@
-package ua.pis.lab4.Repository;
+package ua.pis.lab4.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import ua.pis.lab4.Model.Seat;
+import ua.pis.lab4.model.Seat;
 
 public interface SeatRepository extends JpaRepository<Seat, Integer> {
 }

@@ -2,9 +2,9 @@ package ua.pis.lab4.Implementation;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
-import ua.pis.lab4.DAO.MovieDAO;
-import ua.pis.lab4.Repository.MovieRepository;
-import ua.pis.lab4.Model.Movie;
+import ua.pis.lab4.dao.MovieDAO;
+import ua.pis.lab4.repository.MovieRepository;
+import ua.pis.lab4.model.Movie;
 
 import java.sql.SQLException;
 import java.util.List;

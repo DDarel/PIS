@@ -1,8 +1,8 @@
 package ua.pis.lab4.Implementation;
 
-import ua.pis.lab4.DAO.SeatDAO;
-import ua.pis.lab4.Model.Seat;
-import ua.pis.lab4.Repository.SeatRepository;
+import ua.pis.lab4.dao.SeatDAO;
+import ua.pis.lab4.model.Seat;
+import ua.pis.lab4.repository.SeatRepository;
 
 import java.sql.SQLException;
 import java.util.List;

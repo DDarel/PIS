@@ -1,4 +1,4 @@
-package ua.pis.lab4.Connection;
+package ua.pis.lab4.connection;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

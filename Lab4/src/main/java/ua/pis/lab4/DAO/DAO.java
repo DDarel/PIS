@@ -1,4 +1,4 @@
-package ua.pis.lab4.DAO;
+package ua.pis.lab4.dao;
 
 import java.util.List;
 import java.sql.SQLException;

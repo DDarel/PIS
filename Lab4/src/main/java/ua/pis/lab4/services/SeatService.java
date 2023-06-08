@@ -2,7 +2,7 @@ package ua.pis.lab4.services;
 
 
 import ua.pis.lab4.Implementation.SeatDAOImpl;
-import ua.pis.lab4.Model.Seat;
+import ua.pis.lab4.model.Seat;
 
 import java.sql.SQLException;
 import java.util.List;

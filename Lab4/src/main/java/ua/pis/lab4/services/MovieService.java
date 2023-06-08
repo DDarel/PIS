@@ -1,7 +1,7 @@
-package services;
+package ua.pis.lab4.services;
 
-import dao.implementation.MovieDAOImpl;
-import model.Movie;
+import ua.pis.lab4.Implementation.MovieDAOImpl;
+import ua.pis.lab4.model.Movie;
 
 import java.sql.SQLException;
 import java.util.List;

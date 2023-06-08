@@ -1,9 +1,9 @@
 package ua.pis.lab4.Implementation;
 
 import org.springframework.stereotype.Repository;
-import ua.pis.lab4.DAO.UserDAO;
-import ua.pis.lab4.Model.User;
-import ua.pis.lab4.Repository.UserRepository;
+import ua.pis.lab4.dao.UserDAO;
+import ua.pis.lab4.model.User;
+import ua.pis.lab4.repository.UserRepository;
 
 import java.sql.SQLException;
 import java.util.List;

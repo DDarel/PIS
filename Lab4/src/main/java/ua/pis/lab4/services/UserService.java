@@ -1,8 +1,8 @@
 package ua.pis.lab4.services;
 
-import ua.pis.lab4.Connection.ConnectionPool;
+import ua.pis.lab4.connection.ConnectionPool;
 import ua.pis.lab4.Implementation.UserDAOImpl;
-import ua.pis.lab4.Model.User;
+import ua.pis.lab4.model.User;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

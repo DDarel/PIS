@@ -1,4 +1,4 @@
-package ua.pis.lab4.Model;
+package ua.pis.lab4.model;
 
 public class User {
     private int id;

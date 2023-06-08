@@ -1,4 +1,4 @@
-package ua.pis.lab4.Model;
+package ua.pis.lab4.model;
 
 import java.sql.Date;
 import java.sql.Time;

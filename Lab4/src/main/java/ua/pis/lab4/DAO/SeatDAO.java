@@ -1,4 +1,4 @@
-package ua.pis.lab4.DAO;
-import ua.pis.lab4.Model.Seat;
+package ua.pis.lab4.dao;
+import ua.pis.lab4.model.Seat;
 public interface SeatDAO extends DAO<Seat>{
 }
